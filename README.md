@@ -1,2 +1,2 @@
 # https-Femicoin-Femicoin-
-Este repositorio promociona el token de criptomonedas Buddycoin ( BDY )
+Este repositorio es de libre uso según el usuario en cuestión
